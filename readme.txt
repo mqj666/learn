@@ -1,6 +1,6 @@
 Git is a version control system.
-Git is free software.
+Git is a free software.
 Git learn very good!
 Create a new branch is quick and simple.
-Git branch story.
+Git bug branch.
 
